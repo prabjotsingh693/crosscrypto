@@ -1,0 +1,29 @@
+.navbar,
+.navbar-default {
+    background-image: linear-gradient(to bottom,#2c4053 0,#2c4053 100%) !important; /* override background image gradient w/ flat color */
+    background-color :'#283649';
+    border-radius: 0;
+
+    border: none;
+
+
+}
+
+.navbar{
+	margin-bottom: 0;
+}
+
+.navbar-nav{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+
+.navbar-default .navbar-nav>li>a {
+    color:#e2e2e2;
+}
+
+
+.navbar-default .navbar-nav>li>a:hover {
+    color:#fff;
+}

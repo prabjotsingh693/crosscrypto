@@ -1,0 +1,30 @@
+.choice_believe{
+
+	list-style-type: none;
+	border: 1px solid #fff;
+	display: inline-block;
+	border-radius: 20px;
+	/*padding-right: 40px;*/
+	padding: 6px 40px;
+	font-size: 15px;
+	cursor: pointer;
+}
+
+.clicked{
+	background-color: #fff;
+	color:#283546;
+}
+
+.stock_submit{
+	margin-top: 25px;
+	background-color: #283546;
+	border: 2px solid #509af0;
+	padding: 6px 40px;
+}
+
+.stock_submit:hover{
+	
+	background-color: #509af0;
+	
+	color: #fff;
+}
